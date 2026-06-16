@@ -1,1 +1,1 @@
-<img width="1388" height="960" alt="螢幕擷取畫面 2026-05-06 223346" src="https://github.com/user-attachments/assets/1564b653-d27f-42b3-b4ca-12b14ea745f8" />
+<img width="645" height="416" alt="image" src="https://github.com/user-attachments/assets/6a341a91-38d1-408e-95e2-6d9305294f05" />
